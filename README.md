@@ -9,7 +9,8 @@
 
 **Задача: **** Анализ временных рядов для прогнозирования цен на продукты в нефтегазовой промышленности**
 
-![image](https://github.com/PaslenAmari/final_attestaion_ai_architect/assets/106679149/2de3a0a5-7712-464a-9158-ff1881859c83)
+![image](https://github.com/PaslenAmari/final_attestaion_ai_architect/assets/106679149/6bfce080-5e44-4fd8-a149-319be74a9b55)
+
 
 **EDA:**
 
