@@ -19,6 +19,16 @@
 
 ![image](https://github.com/PaslenAmari/final_attestaion_ai_architect/assets/106679149/ba36540d-0a9d-45cc-badf-71e2c3149934)
 
+**Гипотеза:**
+
+![image](https://github.com/PaslenAmari/final_attestaion_ai_architect/assets/106679149/9cbd0ce6-c188-4d50-ad70-1fa9f7409f6a)
+
+Анализ существующих решений:
+![image](https://github.com/PaslenAmari/final_attestaion_ai_architect/assets/106679149/62af9d5b-9868-49f8-b00a-119be8043103)
+
+![image](https://github.com/PaslenAmari/final_attestaion_ai_architect/assets/106679149/0e00f58f-a386-40b7-b85f-f38c43108a06)
+
+
 **Прогнозирование:**
 
 ![image](https://github.com/PaslenAmari/final_attestaion_ai_architect/assets/106679149/476ab648-dea2-4065-af08-4e5f083217ee)
@@ -29,5 +39,6 @@
 
 **Выводы и рекомендации:**
 
-![image](https://github.com/PaslenAmari/final_attestaion_ai_architect/assets/106679149/a5d17e06-0d5f-43ba-bfa2-adf26a140211)
+![image](https://github.com/PaslenAmari/final_attestaion_ai_architect/assets/106679149/fed537a5-ae9f-4bb4-9c44-e3e415a5c0fc)
+
 
